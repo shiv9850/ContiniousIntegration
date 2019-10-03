@@ -1,0 +1,7 @@
+C:\Study\ContiniousIntegration\CIDemo\CiDemoSample\bin\Debug\CiDemoSample.exe.config
+C:\Study\ContiniousIntegration\CIDemo\CiDemoSample\bin\Debug\CiDemoSample.exe
+C:\Study\ContiniousIntegration\CIDemo\CiDemoSample\bin\Debug\CiDemoSample.pdb
+C:\Study\ContiniousIntegration\CIDemo\CiDemoSample\obj\Debug\CiDemoSample.exe
+C:\Study\ContiniousIntegration\CIDemo\CiDemoSample\obj\Debug\CiDemoSample.pdb
+C:\Study\ContiniousIntegration\CIDemo\CiDemoSample\obj\Debug\CiDemoSample.csprojAssemblyReference.cache
+C:\Study\ContiniousIntegration\CIDemo\CiDemoSample\obj\Debug\CiDemoSample.csproj.CoreCompileInputs.cache
